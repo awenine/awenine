@@ -1,5 +1,5 @@
 # Hi, I'm Chris 
-Full-stackd developer & Designer with focus on the front-end.
+Full-stack developer & designer with focus on front-end.
 
 I'm currently available for work based in London U.K. & remotely.
 

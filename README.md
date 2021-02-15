@@ -1,21 +1,21 @@
 # Hi, I'm Chris 
-Front-end developer & Designer, 
+Front-End Developer & Designer.
 
 I'm currently available for work based in London U.K. & remotely.
-Send me a mail at: c.orninel@gmail.com 
+Send me a mail at: c.ornine@gmail.com 
 
 
-## Currently Learning** 
+## Currently Learning
 - Looking at the intersection of 3D graphics & animation with web-based technologies, specifically WebGL, three.js, and SVG animations.
 
 
 ## Recent Projects
 
-<img width="60" alt="Viral logo" title="Viral" src="assets/viral-logo.png" align="left"></img> **Viral** (Full Stack Web App) -> An online port of the "Pandemic" board game, re-designed around stopping the spread of misinformation. Working in a team of 6, my focus was on the game logic and front-end design. [LINK](https://github.com/Bobik808/Viral "Viral Github Repo")
+<img width="60" alt="Viral logo" title="Viral" src="assets/viral-logo.png" align="left"></img> [**Viral**](https://github.com/Bobik808/Viral "Viral Github Repo") (Full Stack Web App) -> An online port of the "Pandemic" board game, re-designed around stopping the spread of misinformation. Working in a team of 6, my focus was on the game logic and front-end design.
 
-<img width="60" alt="Wandrer logo" title="Wandrer" src="https://raw.githubusercontent.com/awenine/wandrer/main/images/wandrer-logo.png" align="left"></img> **Wandrer** (Native Mobile App) -> Wandrer is a cross-platform sound streaming app for geotagged field recordings from the Freesound library. Taking the user's location, or one chosen anywhere in the world, Wandrer builds a playlist of archived sounds recorded in the vicinity, rendering the users journey history as it progresses. Built and designed by myself. [LINK](https://github.com/awenine/wandrer "Wandrer Github Repo")  
+<img width="60" alt="Wandrer logo" title="Wandrer" src="https://raw.githubusercontent.com/awenine/wandrer/main/images/wandrer-logo.png" align="left"></img> [**Wandrer**](https://github.com/awenine/wandrer "Wandrer Github Repo") (Native Mobile App) -> Wandrer is a cross-platform sound streaming app for geotagged field recordings from the Freesound library. Taking the user's location, or one chosen anywhere in the world, Wandrer builds a playlist of archived sounds recorded in the vicinity, rendering the users journey history as it progresses. Built and designed by myself.  
 
-**TechLog** (Full Stack Web App) -> A utility application designed for logging usage & defections with common technologies used on off-shore oil-rigs. Working in a team of 2, I helped design unit, integration & e2e tests, as well as refactoring the front-end for accessibility and performance. [LINK](https://github.com/alexanderjshall/TechLog "Viral Github Repo")
+[**TechLog**](https://github.com/alexanderjshall/TechLog "Techlog Github Repo") (Full Stack Web App) -> A utility application designed for logging usage & defections with common technologies used on off-shore oil-rigs. Working in a team of 2, I helped design unit, integration & e2e tests, as well as refactoring the front-end for accessibility and performance.
 
 
 ## Technologies
@@ -30,7 +30,7 @@ Send me a mail at: c.orninel@gmail.com
 
 **Art & Design**
 
-<img height="40" alt="Photoshop" title="Photoshop" src="assets/photoshop-cc.svg"><img height="40" alt="After Effects" title="After Effects"  src="assets/after-effects-cc.svg"><img height="40" alt="Blender" title="Blender" src="assets/Blender_logo.svg"></code> <img height="40" alt="Figma" title="Figma" src="assets/Figma-logo.svg"> <img height="40" alt="Inkscape" title="Inkscape" src="assets/Inkscape_logo.svg"> <img height="40" alt="ZBrush" title="ZBrush" src="assets/zbrush.svg">
+<img height="40" alt="Photoshop" title="Photoshop" src="assets/photoshop-cc.svg"><img height="40" alt="After Effects" title="After Effects"  src="assets/after-effects-cc.svg"><img height="40" alt="Blender" title="Blender" src="assets/Blender_logo.svg"></code> <img height="40" alt="Figma" title="Figma" src="assets/Figma-logo.svg"> <img height="40" alt="Inkscape" title="Inkscape" src="assets/Inkscape_Logo.svg"> <img height="40" alt="ZBrush" title="ZBrush" src="assets/zbrush.svg">
 
 **Back-end**
 

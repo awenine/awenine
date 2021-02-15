@@ -38,8 +38,7 @@ Send me a mail at: c.orninel@gmail.com
 
 **Testing**
 
-<img height="40" alt="Javascript" src="./assets/jest-logo.png"><img height="40" alt="Javascript" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4"> <img height="40" alt="Javascript" src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4"> <img height="40" alt="Javascript" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
-
+<img height="40" alt="Jest" title="Jest" src="./assets/jest-0.svg"><img height="40" alt="Mocha" title="Mocha" src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4"> <img height="40" alt="Cypress" title="Cypress" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
 
 
 ## About Me

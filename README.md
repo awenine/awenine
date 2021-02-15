@@ -3,12 +3,11 @@ Full-stackd developer & Designer with focus on the front-end.
 
 I'm currently available for work based in London U.K. & remotely.
 
+<img alt="Laptop gif animation" title="My Laptop"  src="./assets/githublaptop-animation.gif" width="40%" align="right">
+
 Send me a mail at: c.ornine@gmail.com 
 
 Or check my [LinkedIn](https://www.linkedin.com/in/awenine/ "Christopher Owen LinkedIn Profile")
-
-<img alt="Laptop gif animation" title="My Laptop"  src="./assets/githublaptop-animation.gif" width="40%" align="right">
-
 
 ## Currently Learning
 - Looking at the intersection of 3D graphics & animation with web-based technologies, specifically WebGL, three.js, and SVG animations.

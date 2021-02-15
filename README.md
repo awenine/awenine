@@ -1,8 +1,8 @@
 # Hi, I'm Chris 
-Front-end developer & Designer, 
+Front-End Developer & Designer.
 
 I'm currently available for work based in London U.K. & remotely.
-Send me a mail at: c.orninel@gmail.com 
+Send me a mail at: c.ornine@gmail.com 
 
 
 ## Currently Learning** 

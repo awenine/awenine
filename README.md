@@ -5,7 +5,7 @@ I'm currently available for work based in London U.K. & remotely.
 Send me a mail at: c.ornine@gmail.com 
 
 
-## Currently Learning** 
+## Currently Learning
 - Looking at the intersection of 3D graphics & animation with web-based technologies, specifically WebGL, three.js, and SVG animations.
 
 

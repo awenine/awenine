@@ -34,7 +34,7 @@ Or check my [LinkedIn](https://www.linkedin.com/in/awenine/ "Christopher Owen Li
 
 **Art & Design**
 
-<img height="40" alt="Photoshop" title="Photoshop" src="assets/photoshop-cc.svg"><img height="40" alt="After Effects" title="After Effects"  src="assets/after-effects-cc.svg"><img height="40" alt="Blender" title="Blender" src="assets/Blender_logo.svg"></code> <img height="40" alt="Figma" title="Figma" src="assets/Figma-logo.svg"> <img height="40" alt="Inkscape" title="Inkscape" src="assets/Inkscape_Logo.svg"> <img height="40" alt="ZBrush" title="ZBrush" src="assets/zbrush.svg">
+<img height="40" alt="Photoshop" title="Photoshop" src="assets/photoshop-cc.svg"><img height="40" alt="After Effects" title="After Effects"  src="assets/after-effects-cc.svg"><img height="40" alt="Blender" title="Blender" src="assets/Blender_logo.svg"> <img height="40" alt="SVG" title="SVG" src="assets/SVG_Logo.svg"> <img height="40" alt="Figma" title="Figma" src="assets/Figma-logo.svg"> <img height="40" alt="Inkscape" title="Inkscape" src="assets/Inkscape_Logo.svg"> <img height="40" alt="ZBrush" title="ZBrush" src="assets/zbrush.svg">
 
 **Back-end**
 

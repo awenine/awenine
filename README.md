@@ -1,8 +1,10 @@
 # Hi, I'm Chris 
-Front-End Developer & Designer.
+Full-stackd developer & Designer with focus on the front-end.
 
 I'm currently available for work based in London U.K. & remotely.
 Send me a mail at: c.ornine@gmail.com 
+
+<img alt="Laptop gif animation" title="My Laptop"  src="./assets/githublaptop-animation.gif" width="40%" align="right">
 
 
 ## Currently Learning

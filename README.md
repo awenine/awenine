@@ -3,7 +3,7 @@ Full-stack developer & designer with focus on front-end.
 
 I'm currently available for work based in London U.K. & remotely.
 
-<img alt="Laptop gif animation" title="My Laptop"  src="./assets/githublaptop-animation.gif" width="40%" align="right">
+<img alt="Laptop gif animation" title="My Laptop, made in Blender, animated in Ps 💕"  src="./assets/githublaptop-animation.gif" width="40%" align="right">
 
 Send me a mail at: c.ornine@gmail.com 
 
@@ -11,6 +11,7 @@ Or check my [LinkedIn](https://www.linkedin.com/in/awenine/ "Christopher Owen Li
 
 ## Currently Learning
 - Looking at the intersection of 3D graphics & animation with web-based technologies, specifically WebGL, three.js, and SVG animations.
+- The functional programming paradigm in Js, as well as the Elm language.
 
 
 ## Recent Projects
@@ -38,7 +39,7 @@ Or check my [LinkedIn](https://www.linkedin.com/in/awenine/ "Christopher Owen Li
 
 **Back-end**
 
-<img height="40" alt="Mongo DB" title="Mongo DB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> <img height="40" alt="Mongoose" title="Mongoose" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"><img height="40" alt="Express" title="Express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> <img height="40" alt="Koa" title="Koa" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/koa/koa.png"> <img height="40" alt="GraphQL" title="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
+<img height="40" alt="Mongo DB" title="Mongo DB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> <img height="40" alt="Mongoose" title="Mongoose" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"><img height="40" alt="Express" title="Express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> <img height="40" alt="Koa" title="Koa" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/koa/koa.png"> <img height="40" alt="GraphQL" title="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"> <img height="40" alt="Heroku" title="Heroku" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/heroku.svg">
 
 **Testing**
 

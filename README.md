@@ -48,4 +48,4 @@ Or check my [LinkedIn](https://www.linkedin.com/in/awenine/ "Christopher Owen Li
 
 ## About Me
 
-I'm into drawing, 3D graphics, studying Chinese 中文, [running a netlabel](http://quantumnatives.com/ "Quantum Natives"), and food tourism.
+I'm into drawing, 3D graphics, studying Chinese 中文, [running a netlabel](http://quantumnatives.com/ "Quantum Natives"), and travelling for food.

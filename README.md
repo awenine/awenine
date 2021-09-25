@@ -1,4 +1,3 @@
-# Hi, I'm Chris 
 Full-stack developer & designer with focus on front-end, currently based in London U.K.
 
 <img alt="Laptop gif animation" title="My Laptop, made in Blender, animated in Ps 💕"  src="./assets/githublaptop-animation.gif" width="40%" align="right">

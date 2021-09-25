@@ -1,7 +1,5 @@
 # Hi, I'm Chris 
-Full-stack developer & designer with focus on front-end.
-
-I'm currently available for work based in London U.K. & remotely.
+Full-stack developer & designer with focus on front-end, currently based in London U.K.
 
 <img alt="Laptop gif animation" title="My Laptop, made in Blender, animated in Ps 💕"  src="./assets/githublaptop-animation.gif" width="40%" align="right">
 
@@ -10,8 +8,9 @@ Send me a mail at: c.ornine@gmail.com
 Or check my [LinkedIn](https://www.linkedin.com/in/awenine/ "Christopher Owen LinkedIn Profile")
 
 ## Currently Learning
-- Looking at the intersection of 3D graphics & animation with web-based technologies, specifically Babylon.js and SVG animations.
-- The functional programming paradigm in Js.
+- Looking at the intersection of 3D graphics & animation with web-based technologies, specifically Babylon.js and raw Canvas animation.
+- WebXR - AR & VR
+- Functional programming in Js & Haskell.
 
 
 ## Recent Projects
@@ -44,8 +43,3 @@ Or check my [LinkedIn](https://www.linkedin.com/in/awenine/ "Christopher Owen Li
 **Testing**
 
 <img height="40" alt="Jest" title="Jest" src="./assets/jest-0.svg"><img height="40" alt="Mocha" title="Mocha" src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4"> <img height="40" alt="Cypress" title="Cypress" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
-
-
-## About Me
-
-I'm into drawing, 3D graphics, studying Chinese 中文, [running a netlabel](http://quantumnatives.com/ "Quantum Natives"), and travelling for food.

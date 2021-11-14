@@ -7,9 +7,10 @@ Send me a mail at: c.ornine@gmail.com
 Or check my [LinkedIn](https://www.linkedin.com/in/awenine/ "Christopher Owen LinkedIn Profile")
 
 ## Currently Learning
-- Looking at the intersection of 3D graphics & animation with web-based technologies, specifically Babylon.js and raw Canvas animation.
+- Looking at the intersection of 3D graphics & animation with web-based technologies, specifically Babylon.js and vanilla Canvas animation.
 - WebXR - AR & VR
 - Functional programming in Js & Haskell.
+- Web Audio API in Js
 
 
 ## Recent Projects

@@ -6,8 +6,6 @@ mail at: c.ornine@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/awenine/ "Christopher Owen LinkedIn Profile")
 
-## Technologies
-
 **Programming Languages**
 
 <img height="40" alt="Typescript" title="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="40" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="40" alt="HTML" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="40" alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
